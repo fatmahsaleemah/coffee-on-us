@@ -1,3 +1,65 @@
+body{
+  background-color: grey;
+}
+h1{
+  text-align: center;
+}
+h3{
+  /* text-align-last: right; */
+  text-align: right;
+  
+}
+p{
+  text-align: right;
+  margin-bottom: 100px;
+}
+
+.g{
+  
+  color: green;
+}
+.b{
+  
+  color: blue;
+}
+
+.r{
+  
+  color: red;
+}
+.s{
+  background-color: green;
+}
+.c{
+  background-color:red;
+}
+.ca{
+  background-color: blue;
+}
+
+a{
+  text-decoration: none;
+}
+ th, td {
+  border: 1px solid black;
+}
+.padding { 
+ 
+   padding: 100px 200px 100px 200px;
+}
+img{
+  margin: 20px;
+  display: inline;
+}
+.u{
+  text-align: left;
+  display: inline;
+  margin: 40px;
+}
+.o{
+  display: inline;
+  
+}
 /* td {
   background-color: orange;
 } */
